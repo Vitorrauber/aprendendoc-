@@ -1,0 +1,14 @@
+C:\Users\vitor\Desktop\csharp\abc\MathGame\bin\Debug\net8.0\MathGame.exe
+C:\Users\vitor\Desktop\csharp\abc\MathGame\bin\Debug\net8.0\MathGame.deps.json
+C:\Users\vitor\Desktop\csharp\abc\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+C:\Users\vitor\Desktop\csharp\abc\MathGame\bin\Debug\net8.0\MathGame.dll
+C:\Users\vitor\Desktop\csharp\abc\MathGame\bin\Debug\net8.0\MathGame.pdb
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.dll
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.pdb
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+C:\Users\vitor\Desktop\csharp\abc\MathGame\obj\Debug\net8.0\ref\MathGame.dll
